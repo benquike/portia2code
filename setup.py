@@ -11,7 +11,8 @@ install_requires = [
     'w3lib',
     'scrapely',
     'autoflake==0.6.6',
-    'autopep8==1.2.2'
+    'autopep8==1.2.2',
+    'itemloaders==1.3.2'
 ]
 
 setup(
